@@ -1,6 +1,5 @@
 # hyprland-config
 backup of my hyprland config.
 
-I use the **end-4 dotfiles** with terminal emulator **kitty**,
+I use the [**end-4 dotfiles**](https://github.com/end-4) with terminal emulator **kitty**
 
-> with app launcher __rofi__
