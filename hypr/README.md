@@ -1,10 +1,2 @@
 # hyprland-config
-# hyprland-config
-# hyprland-config
-# hyprland-config
-# hyprland-config
-# hyprland-config
-# hyprland-config
-# hyprland-config
-# hyprland-config
-# hyprland-config
+backup of my hyprland config.
